@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/Kevin-Svenjamin/guenther-schlog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Dies hier ist Günthers Schlog. Hier wird die Stärke der Morgenschisse geschloggt. Als Skala findet die Kachelmannsche Standardskala Anwendung:
+- 0 bis 3 kA: schwacher Brummler
+- 3 bis 7 kA: mittlerer Roller
+- 7 bis 40 kA: starker Knaller
+- 40 bis 100 kA: stabiler Dröhner
+- ab 100 kA: wilder Hausrüttler
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Schlog
+### 11.02.2022
+- 08:30 mittlerer Roller
+- 10:10 starker Knaller
 
-### Markdown
+### 10.10.2022
+- Stabiler Dröhner
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 09.02.2022
+- Starker Knaller
 
-```markdown
-Syntax highlighted code block
+### 08.02.2022
+- Mittlerer Roller
 
-# Header 1
-## Header 2
-### Header 3
+### 07.02.2022
+- Stabiler Dröhner (eher Richtung Knaller als Hausrüttler)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kevin-Svenjamin/guenther-schlog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
