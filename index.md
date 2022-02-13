@@ -8,6 +8,10 @@ Dies hier ist Günthers Schlog. Hier wird die Stärke der Morgenschisse geschlog
 - ab 100 kA: wilder Hausrüttler
 
 ## Schlog
+
+### 13.02.2022
+- Stabiler Drohner
+
 ### 12.02.2022
 - Starker Knaller
 
