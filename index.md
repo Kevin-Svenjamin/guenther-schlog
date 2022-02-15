@@ -9,6 +9,9 @@ Dies hier ist Günthers Schlog. Hier wird die Stärke der Morgenschisse geschlog
 
 ## Schlog
 
+### 15.02.2022
+- Schwacher Brummler
+
 ### 14.02.2022
 - Mittlerer Roller
 
