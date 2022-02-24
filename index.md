@@ -9,6 +9,12 @@ Dies hier ist Günthers Schlog. Hier wird die Stärke der Morgenschisse geschlog
 
 ## Schlog
 
+### 24.02.2022
+- Mittlerer Roller
+
+### 23.02.2022
+- Starker Knaller
+
 ### 22.02.2022
 - Starker Knaller  
 
