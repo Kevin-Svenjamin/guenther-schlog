@@ -9,6 +9,12 @@ Dies hier ist Günthers Schlog. Hier wird die Stärke der Morgenschisse geschlog
 
 ## Schlog
 
+### 10.03.2022
+- Wilder Hausrüttler
+
+### 09.03.2022
+- Starker Knaller
+
 ### 08.03.2022
 - Starker Knaller
 
